@@ -2,7 +2,7 @@
 # Name:        d
 # Purpose:      Pruebas Git
 #
-# Author:      Alumno47
+# comentario nuevo
 #
 # Created:     11/02/2019
 # Copyright:   (c) Alumno47 2019
@@ -10,7 +10,7 @@
 #-------------------------------------------------------------------------------
 
 def main():
-    listaRLS={"Soy un ":3, "hola ":5,"mundo ":7}
+    listaRLS={"Soy un ":2, "hola ":5,"mundo ":7}
     print(list(listaRLS.items()))
 
 if __name__ == '__main__':
