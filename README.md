@@ -9,3 +9,5 @@ I forgot to add looping through SM :O
 Meto a may18 este cambio aquí
 
 But now here I am to edit the situation, loop included.
+-------
+Desde jun'19 mantengo VCS desde Pycharm
