@@ -14,4 +14,5 @@ def main():
     print(list(listaRLS.items()))
 
 if __name__ == '__main__':
+    print('hola chavales')
     main()
